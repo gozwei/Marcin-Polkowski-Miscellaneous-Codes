@@ -4,7 +4,7 @@ This code was used in blog entry [http://morony.pl/?p=1052].
 
 This example shows how to speed up Python execution by moving calculation into c++ code. 
 
-Probelm used is fairly simple: we take list of `N=1000` numbers and calculate how many sets of three numbers out of this list have sum smaller than `treshold = 10e-8`. We go brutforce. 
+Problem used is fairly simple: we take list of `N=1000` numbers and calculate how many sets of three numbers out of this list have sum smaller than `threshold = 10e-8`. We go brut force. 
 
 To compile C++ code run:
 ```

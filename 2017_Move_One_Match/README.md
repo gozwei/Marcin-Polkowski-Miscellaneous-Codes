@@ -14,7 +14,7 @@ This code is used for debugging. You need to set your initial state (ex. 1+2=8):
 all_comb(1,"+",2,"=",8)
 ```
  
-Program will print all possible equations afer moving one match with information about method used (see code) and test if result is mathematically correct:
+Program will print all possible equations after moving one match with information about method used (see code) and test if result is mathematically correct:
 
 ```
 2: 1+3=8: False
@@ -26,9 +26,9 @@ Program will print all possible equations afer moving one match with information
 
 ## all.py
 
-This is production code: prints all possibile start equation that can be transformed to correct equation after one match is moved.
+This is production code: prints all possible start equation that can be transformed to correct equation after one match is moved.
 
-You can use `grep` to search for problems. For example to find solution to top most problem form picture above you can run:
+You can use `grep` to search for problems. For example, to find solution to top most problem form picture above you can run:
 ```
 python3 all.py | grep 0-9=5
 ```

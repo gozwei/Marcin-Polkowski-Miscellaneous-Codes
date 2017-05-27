@@ -1,4 +1,4 @@
-# Tesla Motors Coding Challange
+# Tesla Motors Coding Challenge
 
 This code is a solution to Tesla Coding Challenge by Marcin Polkowski
 
@@ -85,4 +85,4 @@ Submit your submission to me via email with the following:
 
 # Disclaimer 
 
-The Coding Challange was not described by Tesla Motors as confidential. 
+The Coding Challenge was not described by Tesla Motors as confidential.

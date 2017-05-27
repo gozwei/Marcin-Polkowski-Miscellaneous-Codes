@@ -8,11 +8,11 @@ This example was primarily created for fun, however I use it to show my students
 
 ## 2016_TESLA
 
-In summer 2016 I've found interesting job offer from Tesla Motors and I decided to apply. One of the recrutation steps involved solving Coding Chellange. I give you full Coding Chellange and my solution. 
+In summer 2016 I've found interesting job offer from Tesla Motors and I decided to apply. One of the recreation steps involved solving Coding Challenge. I give you full Coding Challenge and my solution. 
 
 ## 2017_Move_One_Match
 
-This example was created just for fun, however I'm thinkig about using it as an example for my Introduction to Python course. 
+This example was created just for fun, however I'm thinking about using it as an example for my Introduction to Python course. 
 
 ## 2017_Python_C++
 
