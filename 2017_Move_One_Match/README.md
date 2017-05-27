@@ -1,5 +1,7 @@
 # Solution to all Move One Match Problem
 
+This code was used in blog entry [http://morony.pl/?p=1136].
+
 This code was written just for fun to solve problems similar to those:
 
 ![alt Move One Match Problem](http://morony.pl/wp-content/uploads/2016/11/IMG_1110-1024x503.jpg "Move One Match Problem")
