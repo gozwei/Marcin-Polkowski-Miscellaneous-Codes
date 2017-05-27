@@ -18,7 +18,7 @@ minus[2] = []
 minus[3] = []
 minus[4] = []
 minus[5] = []
-minus[6] = []
+minus[6] = [5]
 minus[7] = [1]
 minus[8] = [0, 6, 9]
 minus[9] = [3, 5]
@@ -108,4 +108,4 @@ def all_comb(a, o1, b, o2, c):
 			print_result(a, "-", b, o2, c1,19)
 
 
-all_comb(1,"+",2,"=",8)
+all_comb(6,"+",4,"=",4)
