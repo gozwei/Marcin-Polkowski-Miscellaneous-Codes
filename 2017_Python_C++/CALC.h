@@ -1,0 +1,1 @@
+void _CALC(double *DATA, int *RESULT, int N, double treshold);
